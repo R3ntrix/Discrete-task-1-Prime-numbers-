@@ -1,0 +1,1 @@
+# Discrete-task-1-Prime-numbers-
